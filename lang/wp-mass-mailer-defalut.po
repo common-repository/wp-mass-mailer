@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Mass Mailer 0.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-13 02:59+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Cheon <i@cheon.info>\n"
+"Language-Team: Cheon <i@cheon.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: D:\\Cheon\\My Dropbox\\WordPress\\Plugins\\wp-mass-mailer\\trunk\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-mass-mailer.php:55
+#: wp-mass-mailer.php:132
+#: wp-mass-mailer.php:160
+msgid "WP Mass Mailer"
+msgstr ""
+
+#: wp-mass-mailer.php:62
+#, php-format
+msgid "%s<p><strong>This email sent by <a href=\"%s\" target=\"_blank\">%s</a> using the <a href=\"http://cheon.info/1156\" target=\"_blank\">WP Mass Mailer</a> plugin.<br />Please do not reply this email. Thank you!!!<br />If you do not want to receive such messages, please <a href=\"%s[wpmmunsubscribe]\" title=\"Unsubscribe\">unsubscribe</a>!</strong></p>"
+msgstr ""
+
+#: wp-mass-mailer.php:137
+msgid "Sending emails(Do not close your browser!)"
+msgstr ""
+
+#: wp-mass-mailer.php:142
+msgid "Sending......"
+msgstr ""
+
+#: wp-mass-mailer.php:164
+msgid "Write mail"
+msgstr ""
+
+#: wp-mass-mailer.php:174
+msgid "Recipient group"
+msgstr ""
+
+#: wp-mass-mailer.php:177
+msgid "All commenter"
+msgstr ""
+
+#: wp-mass-mailer.php:178
+msgid "All registered user"
+msgstr ""
+
+#: wp-mass-mailer.php:179
+msgid "All subscribers (All commenter and registered user)"
+msgstr ""
+
+#: wp-mass-mailer.php:180
+msgid "The specified post's comments"
+msgstr ""
+
+#: wp-mass-mailer.php:185
+msgid "Specified post"
+msgstr ""
+
+#: wp-mass-mailer.php:206
+msgid "Subject"
+msgstr ""
+
+#: wp-mass-mailer.php:213
+msgid "Can use HTML code."
+msgstr ""
+
+#: wp-mass-mailer.php:219
+msgid "Number of per time send"
+msgstr ""
+
+#: wp-mass-mailer.php:229
+msgid "Send"
+msgstr ""
+
+#: wp-mass-mailer.php:239
+msgid "Support the developer"
+msgstr ""
+

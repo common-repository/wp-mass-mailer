@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Mass Mailer 0.0.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-08 09:07+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: 林泉(LinQuan) <i@linquan.name>\n"
+"Language-Team: 林泉(Linquan) <i@linquan.name>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: D:\\plugins\\wp-mass-mailer\\trunk\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-mass-mailer.php:57
+#: wp-mass-mailer.php:134
+#: wp-mass-mailer.php:162
+msgid "WP Mass Mailer"
+msgstr "邮件群发插件"
+
+#: wp-mass-mailer.php:64
+#, php-format
+msgid "%s<p><strong>This email sent by <a href=\"%s\" target=\"_blank\">%s</a> using the <a href=\"http://linquan.name/1156\" target=\"_blank\">WP Mass Mailer</a> plugin.<br />Please do not reply this email. Thank you!!!<br />If you do not want to receive such messages, please <a href=\"%s[wpmmunsubscribe]\" title=\"Unsubscribe\">unsubscribe</a>!</strong></p>"
+msgstr ""
+
+#: wp-mass-mailer.php:139
+msgid "Sending emails(Do not close your browser!)"
+msgstr "邮件发送中(请不要关闭您的浏览器)"
+
+#: wp-mass-mailer.php:144
+msgid "Sending......"
+msgstr "发送中......"
+
+#: wp-mass-mailer.php:144
+msgid "Send completed"
+msgstr "发送完毕"
+
+#: wp-mass-mailer.php:166
+msgid "Write mail"
+msgstr "撰写邮件"
+
+#: wp-mass-mailer.php:176
+msgid "Recipient group"
+msgstr "收件人群组"
+
+#: wp-mass-mailer.php:179
+msgid "All commenter"
+msgstr "所有评论者"
+
+#: wp-mass-mailer.php:180
+msgid "All registered user"
+msgstr "所有注册会员"
+
+#: wp-mass-mailer.php:181
+msgid "All subscribers (All commenter and registered user)"
+msgstr "所有订阅者(所有评论者和注册会员)"
+
+#: wp-mass-mailer.php:182
+msgid "The specified post's comments"
+msgstr "指定文章的评论者"
+
+#: wp-mass-mailer.php:187
+msgid "Specified post"
+msgstr "指定文章"
+
+#: wp-mass-mailer.php:208
+msgid "Subject"
+msgstr "主题"
+
+#: wp-mass-mailer.php:215
+msgid "Can use HTML code."
+msgstr "可以使用HTML代码。"
+
+#: wp-mass-mailer.php:221
+msgid "Number of per time send"
+msgstr "每次发送的数量"
+
+#: wp-mass-mailer.php:231
+msgid "Send"
+msgstr "发送"
+
+#: wp-mass-mailer.php:241
+msgid "Support the developer"
+msgstr "支持开发者"
+
+#~ msgid "All email sent successfully!"
+#~ msgstr "所有邮件发送成功!"
+
+#~ msgid "aaa"
+#~ msgstr "嗷嗷嗷"
